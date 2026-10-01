@@ -23,9 +23,3 @@ python analisis_ml_supervisado_carlos.py
 Los resultados se reproducen con semilla 42. La clase positiva es `maligno`.
 El conjunto de prueba contiene el 20 % de los casos y no participa en la
 validacion cruzada ni en el ajuste de los modelos.
-
-## Informe
-
-El informe en formato APA y su fuente de Overleaf se entregan por separado. El
-repositorio publico del proyecto es:
-https://github.com/Salv4tore27/ml-supervisado-carlos
