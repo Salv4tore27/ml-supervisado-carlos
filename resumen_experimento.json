@@ -1,0 +1,14 @@
+{
+  "dataset": "Breast Cancer Wisconsin Diagnostic",
+  "observaciones": 569,
+  "predictores": 30,
+  "faltantes": 0,
+  "clases_completas": {
+    "benigno": 357,
+    "maligno": 212
+  },
+  "entrenamiento": 455,
+  "prueba": 114,
+  "semilla": 42,
+  "mejor_por_recall": "SVM RBF"
+}
