@@ -1,6 +1,6 @@
 # Clasificacion supervisada con WDBC
 
-Trabajo de Carlos Mario Salvatore Ocampo Aguilar para la actividad R1-A2-S8.
+Actividad R1-A2-S8.
 
 ## Contenido
 
